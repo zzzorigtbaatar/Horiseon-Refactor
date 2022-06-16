@@ -1,3 +1,23 @@
+ReadMe Template
+
+title
+
+description
+
+    abliity to refactor
+
+highlight changes with code snippets with desc of why its included
+
+
+git github html css tech used
+
+links to my stuff linkedin
+
+
+WHAT WOULD YOU WANT TO SEE IF YOU WERE HIRING A CODER AND LOOKING AT THEIR GITHUB?
+
+
+
 # Horiseon Refactor
 
 ## Description 
