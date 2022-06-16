@@ -1,16 +1,16 @@
-/* sets padding, margin, and box sizing for all elements  */
+/* Removes any spacing between main elements */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* sets the color of page background */
+/* Specifies background page */
 body {
     background-color: #d9dcd6;
 }
 
-/* sets the header and nav elements attributes*/
+/* Specifies attributes for header with logo and nav links */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,14 +18,14 @@ body {
     color: #ffffff;
 }
 
-/* sets the font size and how to display h1 elements in header */
+/* Differentiates logo font from nav link font */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* sets the colors of 'seo' letters in company logo in header */
-.header h1 .seo {
+/* Differentiates letter colors in logo */
+.header h1 .gray-color {
     color: #d9dcd6;
 }
 
@@ -90,7 +90,7 @@ p {
 }
 
 /* consolidates the attributes for <summary> elements in its <article> parent */
-.summary-format{
+.summary-format {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
