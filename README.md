@@ -3,7 +3,6 @@
 ## Description 
 
 Hello and welcome to my project that aims to showcase my ability in refactoring code. 
-
 Horiseon, a fictional marketing company, wants to bring their codebase to accessibility standards for search engine optimization.
 
 Issues with their starter code include:
@@ -17,7 +16,6 @@ Issues with their starter code include:
 - non-descriptive div elements
 
 - non-sequential heading order
-
 
 My solutions include:
 
@@ -33,7 +31,7 @@ My solutions include:
 
 - sequential heading order
 
-[accessible elements and attributes](./assets/images/accessible elements and attributes.png)
+[accessible](./assets/images/accessible elements and attributes.png)
 
 For code readability, I include:
 
@@ -41,7 +39,7 @@ For code readability, I include:
 
 - CSS commenting
 
-[consolidated CSS selectors and properties](./assets/images/consolidated css selectors.png)
+[CSS](./assets/images/consolidated css selectors.png)
 
 Feel free to check out the deployed [website](https://zzzorigtbaatar.github.io/Horiseon-Refactor/) as well as the [repository](https://github.com/zzzorigtbaatar/Horiseon-Refactor).
 
