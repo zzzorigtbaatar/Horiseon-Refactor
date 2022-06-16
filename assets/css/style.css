@@ -1,16 +1,16 @@
-/* removes spacing from elements by default */
+/* universal attributes */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* specifies page's background color */
+/* body attributes */
 body {
     background-color: #d9dcd6;
 }
 
-/* specifies attributes for header's logo and nav links */
+/* header attributes */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,18 +18,18 @@ body {
     color: #ffffff;
 }
 
-/* differentiates logo font size from nav links */
+/* header heading attributes */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* differentiates letter colors in logo */
+/* header heading color */
 .header h1 .gray-color {
     color: #d9dcd6;
 }
 
-/* sets the attributes for links in navigation section */
+/* header nav attributes */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -38,29 +38,29 @@ body {
     font-size: 20px;
 }
 
-/* sets none style for unordered list */
+/* list links together */
 .header nav ul {
     list-style-type: none;
 }
 
-/* sets up nav links in a row*/
+/* place links inline*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* sets nav links as white, no decoration */
+/* link attributes */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* sets the font size for general text on page */
+/* body text size */
 p {
     font-size: 16px;
 }
 
-/* sets division attributes for main picture on page */
+/* section attributes */
 .main-section {
     height: 800px;
     width: 100%;
@@ -70,27 +70,27 @@ p {
     background-position: center;
 }
 
-/* sets position of element on left side in parent element */
+/* put on left side */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-/* sets position of element on right side in parent element */
+/* put on right side */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-/* sets the division attributes for the summary articles */
+/* article attributes */
 .article-section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* consolidates attributes for <summary> elements in its <article> parent */
-.article-format {
+/* article summary attributes */
+.article-section summary {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -99,18 +99,18 @@ p {
     color: #ffffff;
 }
 
-/* consolidates max height for img elements in articleSection  */
+/* article img attributes  */
 .article-section img {
     max-height: 200px;
 }
 
-/* consolidates attributes for h2 elements in articleSection */
+/* article heading attributes */
 .article-section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* sets division attributes for benefits section */
+/* aside attributes */
 .benefits-section {
     margin-right: 20px;
     padding: 20px;
@@ -120,29 +120,28 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-    /* Why isn't margin bottom being applied? */
-    /* margin-bottom: 32px; */
 }
 
+/* aside summary attributes */
 .benefits-section summary {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* consolidates attributes for h3 elements in benefits-section */
+/* aside heading attributes */
 .benefits-section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* consolidates attributes for img elements in benefits-section */
+/* aside image attributes */
 .benefits-section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* sets division attributes for footer */
+/* footer attributes */
 footer {
     padding: 30px;
     clear: both;
@@ -150,7 +149,7 @@ footer {
     text-align: center;
 }
 
-/* specifies font size for last heading */
+/* footer heading attributes */
 .footer h4 {
     font-size: 20px;
 }
