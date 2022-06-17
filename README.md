@@ -48,6 +48,7 @@ The website's appearance remains the same:
 
 ![Screenshot of Horiseon](https://raw.github.com/zzzorigtbaatar/Horiseon-Refactor/assets/images/Screenshot-Horiseon.png)
 
+In order to do this project, I learned and used HTML, CSS, git, and github.
 
 ## Credits
 
@@ -62,4 +63,4 @@ The website's appearance remains the same:
 
 ---
 
-2022 zzzorigtbaatar
+https://www.linkedin.com/in/zorizulkhuu/
