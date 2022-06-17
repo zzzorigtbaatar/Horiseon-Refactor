@@ -31,7 +31,7 @@ My solutions include:
 
 - sequential heading order
 
-[accessible](https://raw.github.com/zzzorigtbaatar/Horiseon-Refactor/assets/images/accessible elements and attributes.png)
+![accessible elements and attributes](https://raw.github.com/zzzorigtbaatar/Horiseon-Refactor/assets/images/accessible-elements-and-attributes.png)
 
 For code readability, I include:
 
@@ -39,14 +39,14 @@ For code readability, I include:
 
 - CSS commenting
 
-[CSS](https://raw.github.com/zzzorigtbaatar/Horiseon-Refactor/assets/images/consolidated css selectors.png)
+![consolidated CSS selectors and properties](https://raw.github.com/zzzorigtbaatar/Horiseon-Refactor/assets/images/consolidated-css-selectors.png)
 
 Feel free to check out the [deployed website](https://zzzorigtbaatar.github.io/Horiseon-Refactor/) as well as the [repository](https://github.com/zzzorigtbaatar/Horiseon-Refactor).
 
 
 The website's appearance remains the same:
 
-[Horiseon](https://raw.github.com/zzzorigtbaatar/Horiseon-Refactor/assets/images/Screenshot - Horiseon_ Effective Marketing - zzzorigtbaatar.github.io.png)
+![Screenshot of Horiseon](https://raw.github.com/zzzorigtbaatar/Horiseon-Refactor/assets/images/Screenshot-Horiseon.png)
 
 
 ## Credits
