@@ -32,7 +32,7 @@ My solutions include:
 - sequential heading order
 
 ![](./assets/images/accessible-elements-and-attributes.png)
-accessible elements and attributes
+
 
 For code readability, I include:
 
@@ -41,15 +41,13 @@ For code readability, I include:
 - CSS commenting
 
 ![](./assets/images/consolidated-css-selectors.png)
-consolidated CSS selectors and properties
-
-Feel free to check out the [deployed website](https://zzzorigtbaatar.github.io/Horiseon-Refactor/) as well as the [repository](https://github.com/zzzorigtbaatar/Horiseon-Refactor).
 
 
 The website's appearance remains the same:
 
 ![](./assets/images/Screenshot-Horiseon.png)
-screenshot of Horiseon
+
+Feel free to check out the [deployed website](https://zzzorigtbaatar.github.io/Horiseon-Refactor/) as well as the [repository](https://github.com/zzzorigtbaatar/Horiseon-Refactor).
 
 In order to do this project, I learned and used HTML, CSS, git, and github.
 
