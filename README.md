@@ -43,7 +43,7 @@ For code readability, I include:
 ![](./assets/images/consolidated-css-selectors.png)
 
 
-The website's appearance remains the same:
+The website's appearance and functions remains the same:
 
 ![](./assets/images/Screenshot-Horiseon.png)
 
