@@ -43,7 +43,7 @@ For code readability, I include:
 ![](./assets/images/consolidated-css-selectors.png)
 
 
-The website's appearance and functions remains the same:
+The website's appearance and functions remain the same:
 
 ![](./assets/images/Screenshot-Horiseon.png)
 
@@ -60,7 +60,7 @@ In order to do this project, I learned and used HTML, CSS, git, and github.
 
 ## License
 
-[LICENSE](/LICENSE)
+[LICENSE](/LICENSE.md)
 
 ---
 
